@@ -52,9 +52,8 @@ For any questions or collaboration:
 
     Clone the repo:
 
-git clone https://github.com/your-username/blog-website.git
-
-    Navigate to the project folder:
+git clone https://github.com//Muoki-Mary/personal-blog-site.git
+Navigate to the project folder:
 
 cd blog-website
 
