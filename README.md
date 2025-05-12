@@ -1,25 +1,65 @@
-# Final Project and Deployment
+📚 Simple Blog Website
 
-## Objectives
-Build a fully functional web application.
-Apply HTML, CSS, and JavaScript concepts learned.
-Deploy the project using GitHub Pages, Netlify, or Vercel.
+A simple multipage blog website built using HTML5, CSS3, and JavaScript.
+The website is fully responsive and interactive, featuring a home page with blogs, an about page, and a contact page.
+📄 Project Structure
 
-## Instructions
-Choose one of the following project ideas:
-Blog Website: Implement a multi-page site with navigation.
-Ecommerce Website: Implement a multi-page site with navigation.
+/blog-website
+├── index.html (Home page)
+├── about.html (About page)
+├── contact.html (Contact page)
+├── /css
+│ └── styles.css (Main CSS styling)
+├── /js
+│ └── script.js (JavaScript for blog interactivity)
+├── /images
+├── blog1.jpg
+├── blog2.jpg
+└── author.jpg
 
->[!NOTE]
-> - Include at least:
-> - A responsive design.
-> - JavaScript interactivity.
-> - A deployment link.
+🛠️ Tools and Technologies Used
 
-## Tasks
+    HTML5 — Page structure and content
 
-Create a well-structured HTML5 document.
-Use at least 5 different HTML elements.
-Ensure semantic correctness.
+    CSS3 — Styling and responsive design
 
-Good luck and happy coding! 🚀💻
+    JavaScript — Dynamic blog posts and interactions
+
+    Git & GitHub — Version control and hosting
+
+🌐 Live Website
+
+🔗 Visit Live Site
+
+(replace with your actual GitHub Pages / Netlify / Vercel link)
+📱 Responsiveness
+
+    Desktop-friendly
+
+    Mobile and tablet responsive
+
+    Adjusts layout using Flexbox and media queries
+
+📬 Contact
+
+For any questions or collaboration:
+
+    Name: Mary Muoki
+
+    Email: muokimary156@gmail.com
+
+🚀 How to Run Locally
+
+    Clone the repo:
+
+git clone https://github.com/your-username/blog-website.git
+
+    Navigate to the project folder:
+
+cd blog-website
+
+    Open index.html in your browser.
+
+📌 Note
+
+    This project is a simple beginner-level website meant to demonstrate front-end web development skills.
